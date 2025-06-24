@@ -1,7 +1,7 @@
-# Smart Car Parking System
+# Smart Vehicle Parking System
 
 ## Overview
-The **Smart Car Parking System** is a C-based application utilizing linked lists for dynamic parking management. It supports vehicle registration, parking space allocation, membership benefits, and revenue tracking. The system efficiently handles sorting and searching functionalities for optimal parking lot utilization.
+The **Smart Vehicle Parking System** is a C-based application utilizing linked lists for dynamic parking management. It supports vehicle registration, parking space allocation, membership benefits, and revenue tracking. The system efficiently handles sorting and searching functionalities for optimal parking lot utilization.
 
 ## Features
 - **Vehicle Registration:**
